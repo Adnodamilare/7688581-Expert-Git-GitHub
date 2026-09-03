@@ -13,9 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Utiluser forceùent un navigateur de Firefox
-A définir
-
-
+utiliser un navigateur 
 ```
 
 ### Installation
